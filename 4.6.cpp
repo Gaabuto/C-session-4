@@ -3,7 +3,7 @@
 int main(){
 	float x;
 	int cost;
-	printf("moi ban nhap so cong to dien(kWh)");
+	printf("moi ban nhap so cong to dien(kWh): ");
 	scanf("%f",&x );
 	if(0<=x && x< 50){
 		cost = 10000;
