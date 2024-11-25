@@ -11,7 +11,7 @@ int main(){
 	if(a>b){
 	x = a;
 	a = b;
-    b = x;
+        b = x;
 }
 
 if (b>c){
